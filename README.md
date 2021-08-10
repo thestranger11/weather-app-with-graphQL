@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I used this weather API: https://graphql-weather-api.herokuapp.com/
+I'm using flag images from  https://www.worldatlas.com/countries
+Check similar project without graphQL, using open weather map API: https://github.com/thestranger11/weather-app
 
 ## Available Scripts
 
